@@ -1,0 +1,4 @@
+fn try_rust (&mut a:i32)->Result<i32, err>{
+a=a+1;
+a
+}
